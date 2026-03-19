@@ -59,4 +59,20 @@ Returns a list of all published article IDs.
 
 ## 🌐 Deployed Smart Contract Link
 
-CBLKAW6T2AATE2MYCT5R36BLYSYRY2TSNP2DIJVCEJKQ7CNNNPTKZRLU
+🔗 https://stellar.expert/explorer/testnet/tx/79273e60b4c929772958eba3bb234857f128e8d3fdf961a1770657c64bbddb76 
+
+🔗 https://lab.stellar.org/r/testnet/contract/CBLKAW6T2AATE2MYCT5R36BLYSYRY2TSNP2DIJVCEJKQ7CNNNPTKZRLU
+
+
+---
+
+## 🔮 Future Improvements
+
+- 🧑‍💻 Wallet-based author authentication
+- 👍 Upvote/downvote system
+- 💬 Commenting on articles
+- 🏷️ Categories and tags
+- 🔎 Search functionality
+
+---
+
