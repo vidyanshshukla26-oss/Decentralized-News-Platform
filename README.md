@@ -1,5 +1,6 @@
 # 📰 Decentralized News Platform (Soroban Smart Contract)
-<img width="1919" height="1048" alt="Screenshot 2026-03-19 135051" src="https://github.com/user-attachments/assets/45585d2b-66c9-46eb-892e-f394b090777e" />
+<img width="1919" height="1048" alt="Screenshot 2026-03-19 135051" src="https://github.com/user-attachments/assets/042838cf-2f03-4d7f-9150-039ab105fa83" />
+
 
 
 ## 📌 Project Description
