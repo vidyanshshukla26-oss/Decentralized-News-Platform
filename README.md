@@ -1,22 +1,62 @@
-# Soroban Project
+# 📰 Decentralized News Platform (Soroban Smart Contract)
 
-## Project Structure
+## 📌 Project Description
 
-This repository uses the recommended structure for a Soroban project:
+The Decentralized News Platform is a blockchain-based application built on the Stellar network using Soroban smart contracts. It provides a censorship-resistant environment where users can publish and access news articles without relying on centralized authorities.
 
-```text
-.
-├── contracts
-│   └── hello_world
-│       ├── src
-│       │   ├── lib.rs
-│       │   └── test.rs
-│       └── Cargo.toml
-├── Cargo.toml
-└── README.md
-```
+This project demonstrates how decentralized infrastructure can be used to ensure transparency, immutability, and trust in digital publishing.
 
-- New Soroban contracts can be put in `contracts`, each in their own directory. There is already a `hello_world` contract in there to get you started.
-- If you initialized this project with any other example contracts via `--with-example`, those contracts will be in the `contracts` directory as well.
-- Contracts should have their own `Cargo.toml` files that rely on the top-level `Cargo.toml` workspace for their dependencies.
-- Frontend libraries can be added to the top-level directory as well. If you initialized this project with a frontend template via `--frontend-template` you will have those files already included.
+---
+
+## 🚀 What It Does
+
+- Enables users to publish news articles on-chain
+- Stores articles permanently in a decentralized manner
+- Allows anyone to retrieve and read articles using their ID
+- Maintains a list of all published articles for easy discovery
+
+---
+
+## ✨ Features
+
+- 📝 **Article Publishing**  
+  Users can publish articles with a title, content, and author name.
+
+- 🔍 **Article Retrieval**  
+  Fetch any article using its unique identifier.
+
+- 📚 **Article Listing**  
+  Retrieve all published article IDs.
+
+- 🔐 **Immutable Storage**  
+  Articles cannot be altered once stored, ensuring trust.
+
+- ⚡ **Fast & Low Cost**  
+  Built on Stellar’s Soroban smart contract platform.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Rust**
+- **Soroban SDK**
+- **Stellar Blockchain**
+
+---
+
+## 📦 Contract Functions
+
+### `publish(id, title, content, author)`
+Publishes a new article and stores its ID.
+
+### `get(id)`
+Returns the article data for a given ID.
+
+### `list()`
+Returns a list of all published article IDs.
+
+---
+
+## 🌐 Deployed Smart Contract Link
+
+CBLKAW6T2AATE2MYCT5R36BLYSYRY2TSNP2DIJVCEJKQ7CNNNPTKZRLU
